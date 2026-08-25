@@ -1,0 +1,8 @@
+interface:
+  display_name: "OLIF 出海内容 Agent"
+  short_description: "为 OLIF 研究热点、打磨选题并创作高质量出海口播脚本"
+  brand_color: "#113323"
+  default_prompt: "Use $olif-content-agent 帮我判断这个想法值不值得拍，必要时查全网，然后给我唯一推荐方向。"
+
+policy:
+  allow_implicit_invocation: true
