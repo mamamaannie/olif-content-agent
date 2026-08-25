@@ -4,3 +4,6 @@
 private-sources/
 *.key
 *.pem
+*.pptx
+*.docx
+*.pdf

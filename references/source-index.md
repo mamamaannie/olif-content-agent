@@ -7,6 +7,7 @@ Use original sources only when the summarized references do not contain enough d
 On each computer, the user may provide these files directly in the conversation or place them in a private local folder outside this repository:
 
 - teacher transcript;
+- short-video course presentation;
 - benchmark-account scripts;
 - association profile;
 - project foundation;
