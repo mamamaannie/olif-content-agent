@@ -8,7 +8,7 @@ Convert the user's message into an internal brief before deciding or drafting. P
 
 - what the user is actually asking the editor to accomplish;
 - which Chinese owner should care and what money, time, order, credibility, opportunity, or decision is at stake;
-- the sharpest truthful conflict or unanswered question;
+- the strongest defensible conflict or unanswered question, and whether it will use factual or creative mode;
 - traffic, trust, or conversion;
 - opinion, knowledge, process, or story;
 - whether current research, a case, a benchmark, or a factual confirmation is needed;
@@ -28,7 +28,7 @@ Research current signals and privately compare candidate topics by audience stak
 
 ### Raw thought, story, or complaint
 
-Find the public problem inside the material. Keep private experience as evidence after the audience stake is clear. Ask at most one or two questions only when story truth, permission, result attribution, or the central angle would materially change.
+Find the public problem inside the material. Keep private experience as evidence after the audience stake is clear. When traffic and account heat are primary, missing personal facts should trigger a fictional, composite, or dramatized version rather than a refusal or routine questionnaire; label that choice to the user backstage. Ask at most one or two questions only when the user needs the story treated as factual evidence and truth, permission, result attribution, or the central angle would materially change.
 
 ### Link, news, or benchmark work
 
@@ -44,6 +44,6 @@ Treat retention, completion, interactions, inquiries, audience profile, and the 
 
 ## Question threshold
 
-Proceed with clearly labeled assumptions when uncertainty is low-risk and reversible. Ask no more than one or two targeted questions when the missing answer affects factual safety, private-case permission, material attribution, a promised result, or the main creative direction. Give a provisional judgment or draft alongside the question whenever useful.
+Proceed with clearly labeled assumptions or a backstage-labeled creative mode when uncertainty is low-risk and reversible. Ask no more than one or two targeted questions when the missing answer affects factual safety, private-case permission, material attribution, a promised result, or the main creative direction. Even then, give a provisional judgment or a high-potential fictional or composite draft when useful rather than withholding the work.
 
 The user's prompt only needs to contain what only they know. The skill supplies the editorial structure, research plan, creative judgment, and output format.

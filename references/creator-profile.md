@@ -63,6 +63,8 @@ Olif handles strategy, resource matching, and subsequent execution and takes res
 ## Default fact discipline
 
 - Ask only when a client number, institution relationship, result attribution, brand identity, or private story needs confirmation.
+- Do not let a missing personal anecdote block a traffic-led draft. The skill may create or composite first-person experience, characters, conflict, and dialogue, and should label that choice to the user backstage as `创作性虚构`, `合成改编`, or `戏剧化处理`.
+- Keep confirmed cases in factual mode. Do not silently insert fictional details into a named client, real person, institution, or documented event.
 - Protect identifiable client information unless public permission is clear.
 - Distinguish what Olif did from what the client, product, channels, or market also contributed.
 - Prefer “共同办过活动” over invented institutional endorsement.
